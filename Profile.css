@@ -1,0 +1,53 @@
+h1 {
+    color: rgb(6, 68, 110);
+    text-shadow: -1px 0 goldenrod, 0 1px goldenrod, 1px 0 goldenrod, 0 -1px goldenrod;
+    font-size: 60px;
+    text-align: center;
+}
+body {
+    background-color: rgb(85, 95, 91);
+}
+
+h2 {
+    color: rgb(6, 68, 110);
+    text-shadow: -1px 0 goldenrod, 0 1px goldenrod, 1px 0 goldenrod, 0 -1px goldenrod;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0;
+}
+
+footer {
+    color: rgb(6, 68, 110);
+    text-shadow: -1px 0 goldenrod, 0 1px goldenrod, 1px 0 goldenrod, 0 -1px goldenrod;
+    font-size: 20px;
+    text-align: center;
+}
+
+a:visited {
+    color: rgb(6, 68, 110);
+}
+a:link {
+color: rgb(6, 68, 110);
+}
+
+section {
+    width: 300px;
+    border: 10px solid rgb(6, 68, 110);
+    padding: 10px;
+    margin: 10px;
+    color:rgb(6, 68, 110)
+}
+
+img {
+    border: rgb(6, 68, 110);
+}
